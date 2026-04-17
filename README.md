@@ -8,7 +8,7 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 - **[Vulnerability Management Program Implementation](https://github.com/woodcollin10/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations (In Progress)
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
