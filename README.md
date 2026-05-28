@@ -9,7 +9,7 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 ## 💻 Helpdesk Virtual Lab Project 
 
-- **[Helpdesk environment and simulated requests](https://github.com/woodcollin10/helpdesk-vmlab-project)**
+- **[Helpdesk Environment and Simulated Requests](https://github.com/woodcollin10/helpdesk-vmlab-project)**
 
 <hr/>
 
