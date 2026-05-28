@@ -3,7 +3,7 @@
 I’m passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work focuses on areas such as vulnerability management and threat detection, allowing me to explore the constantly evolving security landscape. Feel free to explore my projects to see how I approach improving security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Project
 
 - **[Vulnerability Management Program Implementation](https://github.com/woodcollin10/vulnerability-management-program)**
 
