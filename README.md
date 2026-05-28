@@ -7,6 +7,9 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 - **[Vulnerability Management Program Implementation](https://github.com/woodcollin10/vulnerability-management-program)**
 
+## 💻 Helpdesk Virtual Lab Project 
+
+- **[Vulnerability Management Program Implementation](https://github.com/woodcollin10/vulnerability-management-program)**
 
 <hr/>
 
