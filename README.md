@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/woodcollin10/">Collin Wood</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. My work focuses on areas such as vulnerability management and threat detection, allowing me to explore the constantly evolving security landscape. Feel free to explore my projects to see how I approach improving security operations and processes!
-
+Information systems fuel my curiosity and provide opportunities to solve complex challenges through hands-on projects. My work spans areas such as systems administration, networking, virtualization, cybersecurity, and IT operations, allowing me to explore how technology supports organizations and users. I enjoy building practical solutions, learning new technologies, and documenting my work as I continue to develop my technical skills. Feel free to explore my projects to see what I have built and the experience I have gained.
 
 ## ⚠️ Vulnerability Management Project
 
