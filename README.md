@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/woodcollin10/">Collin Wood</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/woodcollin10/">Collin Wood</a>'s IT and Cybersecurity Project Portfolio 📝
 
 Information systems fuel my curiosity and provide opportunities to solve complex challenges through hands-on projects. My work spans areas such as systems administration, networking, virtualization, cybersecurity, and IT operations, allowing me to explore how technology supports organizations and users. I enjoy building practical solutions, learning new technologies, and documenting my work as I continue to develop my technical skills. Feel free to explore my projects to see what I have built and the experience I have gained.
 
@@ -9,6 +9,11 @@ Information systems fuel my curiosity and provide opportunities to solve complex
 ## 💻 Helpdesk Virtual Lab Project 
 
 - **[Helpdesk Environment and Simulated Requests](https://github.com/woodcollin10/helpdesk-vmlab-project)**
+
+## 🔐 SIEM Implementation & Security Monitoring Project
+
+- **[Wazuh SIEM Security Monitoring](https://github.com/woodcollin10/)**
+
 
 <hr/>
 
