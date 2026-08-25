@@ -12,7 +12,7 @@ Information systems fuel my curiosity and provide opportunities to solve complex
 
 ## 🔐 AI-Enhanced SIEM & Security Monitoring Lab
 
-- **[Wazuh SIEM Security Monitoring](https://github.com/woodcollin10/)**
+- **[Wazuh SIEM Security Monitoring](https://github.com/woodcollin10/ai-enhanced-siem-security-lab)**
 
 
 <hr/>
