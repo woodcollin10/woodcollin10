@@ -10,7 +10,7 @@ Information systems fuel my curiosity and provide opportunities to solve complex
 
 - **[Helpdesk Environment and Simulated Requests](https://github.com/woodcollin10/helpdesk-vmlab-project)**
 
-## 🔐 SIEM Implementation & Security Monitoring Project
+## 🔐 AI-Enhanced SIEM & Security Monitoring Lab
 
 - **[Wazuh SIEM Security Monitoring](https://github.com/woodcollin10/)**
 
