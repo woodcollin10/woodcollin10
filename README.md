@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/woodcollin10/">Collin Wood</a>'s IT and Cybersecurity Project Portfolio 📝
 
-Information systems fuel my curiosity and provide opportunities to solve complex challenges through hands-on projects. My work spans areas such as systems administration, networking, virtualization, cybersecurity, and IT operations, allowing me to explore how technology supports organizations and users. I enjoy building practical solutions, learning new technologies, and documenting my work as I continue to develop my technical skills. Feel free to explore my projects to see what I have built and the experience I have gained.
+Information systems fuel my curiosity and give me the opportunity to solve real world problems through hands on projects. My experience covers systems administration, networking, virtualization, cybersecurity, and IT operations, giving me a better understanding of how technology supports organizations and the people who use it. I enjoy building practical solutions, exploring new technologies, troubleshooting challenges, and documenting what I learn along the way. Feel free to explore my projects to see what I have built and the skills I have developed through hands on experience.
 
 ## ⚠️ Vulnerability Management Project
 
